@@ -5,6 +5,7 @@ This is a React Web App that will generate Lorem Ipsum dummy text up to 10 parag
 # Technology Used
 
 React Js
+Java Script
 Tailwind CSS
 
 # Build Setup
